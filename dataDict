@@ -1,0 +1,60 @@
+Factor1	Population Charactestics	Binary
+Factor2	Population Charactestics	Continuous
+Factor3	Population Charactestics	Continuous
+Factor4	Population Charactestics	Continuous
+Factor5	Population Charactestics	Binary
+Factor6	Population Charactestics	Continuous
+DiseaseHis1	History of disease	Binary
+DiseaseHis1Times	History of disease	Continuous
+DiseaseHis2	History of disease	Binary
+DiseaseHis2Times	History of disease	Continuous
+DiseaseHis3	History of disease	Binary
+DiseaseHis3Times	History of disease	Continuous
+DiseaseHis4	History of disease	Binary
+DiseaseHis5	History of disease	Binary
+DiseaseHis6	History of disease	Continuous
+DiseaseHis7	History of disease	Binary
+DiseaseStage1	Stage of Disease	Ordered Categorical
+DiseaseStage2	Stage of Disease	Categorical
+LungFunct1	Lung's Function	Continuous
+LungFunct2	Lung's Function	Continuous
+LungFunct3	Lung's Function	Continuous
+LungFunct4	Lung's Function	Continuous
+LungFunct5	Lung's Function	Continuous
+LungFunct6	Lung's Function	Continuous
+LungFunct7	Lung's Function	Continuous
+LungFunct8	Lung's Function	Continuous
+LungFunct9	Lung's Function	Continuous
+LungFunct10	Lung's Function	Continuous
+LungFunct11	Lung's Function	Binary
+LungFunct12	Lung's Function	Continuous
+LungFunct13	Lung's Function	Continuous
+LungFunct14	Lung's Function	Continuous
+LungFunct15	Lung's Function	Continuous
+LungFunct16	Lung's Function	Continuous
+LungFunct17	Lung's Function	Continuous
+LungFunct18	Lung's Function	Continuous
+LungFunct19	Lung's Function	Continuous
+LungFunct20	Lung's Function	Continuous
+Disease1	Other lung related diseases	Ternary
+Disease1Treat	Other lung related diseases	Binary
+Disease2	Other lung related diseases	Ternary
+Disease2Times	Other lung related diseases	Continuous
+Disease3	Other lung related diseases	Ternary
+Disease3Times	Other lung related diseases	Continuous
+Disease4	Other lung related diseases	Ternary
+Disease4Treat	Other lung related diseases	Binary
+Disease5	Other lung related diseases	Ternary
+Disease5Treat	Other lung related diseases	Binary
+Disease6	Other lung related diseases	Ternary
+Disease6Treat	Other lung related diseases	Binary
+Disease7	Other lung related diseases	Binary
+Ques1	Related Questionnaire	Continuous
+Ques2	Related Questionnaire	Continuous
+Ques3	Related Questionnaire	Continuous
+Ques4	Related Questionnaire	Continuous
+Ques5	Related Questionnaire	Continuous
+Smoke1	Any Smoking History	Continuous
+Smoke2	Any Smoking History	Continuous
+Smoke3	Any Smoking History	Continuous
+Smoke4	Any Smoking History	Continuous
